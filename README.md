@@ -3,21 +3,22 @@ An online portal for optimal discovery of blood donors. The entire process has b
 
 # # Instructions
 
-1)Install a local servers for apache,mysql,anaconda and php
+STEP 1 >>> Install local servers for Apache, MySQL, Anaconda and PHP.
 
-2)Paste all the files of master branch in installation folder of appliacation/htdocs/blood
+STEP 2 >>> Copy the files of master branch in installation folder of appliacation/htdocs/blood.
 
-3)Create folders assets,classes ,js,sql and download files from branches assets,classes ,js and sql in these folders
+STEP 3 >>> Create the following folders - Assets, Classes, JS, SQL and download corresponding files from the following branches - Assets, Classes, JS, SQL into them.
 
-4)Turn the local servers above 'on'
+STEP 4 >>> Turn on the local servers.
 
-5)Create a database named blood_db using phpmyadmin
+STEP 5 >>> Create a database named blood_db using PHPMyAdmin.
 
-6)Import all the .sql files from sql folder using import option in phpmyadmin in blood_db database
+STEP 6 >>> Import all SQL files from SQL folder using import option in phpmyadmin in blood_db database.
 
-7)Now open a browser and type localhost/blood/index.php and you are welcome to our website shifa
+STEP 7 >>> Setup scikit-learn library in python to be able to run ML algorithm for obtaining list of donors in decreasing order of vicinity.
 
-8)Also you are required to set up python library scikit so that our website is able to run   Machine learning program on your pc which is providing the list of blood donors available in order of precedence i.e. which donor to contact first
+STEP 8 >>> In a browser, type localhost/blood/index.php and you will be directed to the website 'DonorDost'.
+
 
 
 
