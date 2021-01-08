@@ -1,7 +1,7 @@
 # DonorDost
 An online portal for optimal discovery of blood donors. The entire process has been streamlined smoothly starting from digitization of appointment booking, paying consultation fees online, finding the nearest available donor and acknowledgement receipts for donations. An additional feature is the availability of virtual money on donating blood, which the account holder can redeem for discount vouchers or payment towards subsequent bookings. The payment gateway feature would be available soon.
 
-# # Instructions
+# Instructions
 
 STEP 1 >>> Install local servers for Apache, MySQL, Anaconda and PHP.
 
